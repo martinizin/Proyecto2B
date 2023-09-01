@@ -1,4 +1,4 @@
 package interfaces;
 
-public class Login {
+public class login {
 }
